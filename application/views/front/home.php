@@ -586,17 +586,13 @@
                         <div class="carousel__slide">
                             <div class="carousel__slide-avatar">
                                 <img alt="" class="carousel__slide-avatar-img"
-                                     src="<?php echo base_url() ?>assets/assets/img/img_believe_avatar.png">
-                                <p class="carousel__slide-avatar-name">Li Chang</p>
-                                <p class="carousel__slide-avatar-work">Director Product Development, Company Ltd.</p>
+                                     src="<?php echo base_url() ?>uploads/files/user.png">
+                                <p class="carousel__slide-avatar-name">Jen C.</p>
+                                <p class="carousel__slide-avatar-work"></p>
                             </div>
                             <div class="carousel__slide-quote">
-                                <h4 class="carousel__slide-quote-title">Elegant and efficient</h4>
-                                <p class="carousel__slide-quote-description">“ An elegant, yet efficient, magic tool! I
-                                    love the
-                                    overall design and the simple way that you can update or change a process. Awesome
-                                    product. The
-                                    guys have put huge effort into this app and focused on simplicity and ease of use.
+                                <h4 class="carousel__slide-quote-title"></h4>
+                                <p class="carousel__slide-quote-description">“ It’s a smart and affordable invoicing tool, simple to manage and easy to send invoices to get paid quick. Has been so nice to get organized and have everything in one place. I'm happy with it. I won't be changing soon.
                                     “</p>
                             </div>
                         </div>
@@ -605,17 +601,13 @@
                         <div class="carousel__slide">
                             <div class="carousel__slide-avatar">
                                 <img alt="" class="carousel__slide-avatar-img"
-                                     src="<?php echo base_url() ?>assets/assets/img/img_believe_avatar.png">
-                                <p class="carousel__slide-avatar-name">Li Chang</p>
-                                <p class="carousel__slide-avatar-work">Director Product Development, Company Ltd.</p>
+                                     src="<?php echo base_url() ?>uploads/files/user.png">
+                                <p class="carousel__slide-avatar-name">David M.</p>
+                                <p class="carousel__slide-avatar-work"></p>
                             </div>
                             <div class="carousel__slide-quote">
-                                <h4 class="carousel__slide-quote-title">Elegant and efficient</h4>
-                                <p class="carousel__slide-quote-description">“ An elegant, yet efficient, magic tool! I
-                                    love the
-                                    overall design and the simple way that you can update or change a process. Awesome
-                                    product. The
-                                    guys have put huge effort into this app and focused on simplicity and ease of use.
+                                <h4 class="carousel__slide-quote-title"></h4>
+                                <p class="carousel__slide-quote-description">“ It is great accounting software for a small business. It's been an amazing experience with Bill Now app because it organizes all of our invoices, costs and client data. Creating and sending estimates straight to the client is a plus for us. Hands down, value for mone.
                                     “</p>
                             </div>
                         </div>
@@ -624,36 +616,13 @@
                         <div class="carousel__slide">
                             <div class="carousel__slide-avatar">
                                 <img alt="" class="carousel__slide-avatar-img"
-                                     src="<?php echo base_url() ?>assets/assets/img/img_believe_avatar.png">
-                                <p class="carousel__slide-avatar-name">Li Chang</p>
-                                <p class="carousel__slide-avatar-work">Director Product Development, Company Ltd.</p>
+                                     src="<?php echo base_url() ?>uploads/files/user.png">
+                                <p class="carousel__slide-avatar-name">Lisa J.</p>
+                                <p class="carousel__slide-avatar-work"></p>
                             </div>
                             <div class="carousel__slide-quote">
-                                <h4 class="carousel__slide-quote-title">Elegant and efficient</h4>
-                                <p class="carousel__slide-quote-description">“ An elegant, yet efficient, magic tool! I
-                                    love the
-                                    overall design and the simple way that you can update or change a process. Awesome
-                                    product. The
-                                    guys have put huge effort into this app and focused on simplicity and ease of use.
-                                    “</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="carousel__slide-wrap">
-                        <div class="carousel__slide">
-                            <div class="carousel__slide-avatar">
-                                <img alt="" class="carousel__slide-avatar-img"
-                                     src="<?php echo base_url() ?>assets/assets/img/img_believe_avatar.png">
-                                <p class="carousel__slide-avatar-name">Li Chang</p>
-                                <p class="carousel__slide-avatar-work">Director Product Development, Company Ltd.</p>
-                            </div>
-                            <div class="carousel__slide-quote">
-                                <h4 class="carousel__slide-quote-title">Elegant and efficient</h4>
-                                <p class="carousel__slide-quote-description">“ An elegant, yet efficient, magic tool! I
-                                    love the
-                                    overall design and the simple way that you can update or change a process. Awesome
-                                    product. The
-                                    guys have put huge effort into this app and focused on simplicity and ease of use.
+                                <h4 class="carousel__slide-quote-title"></h4>
+                                <p class="carousel__slide-quote-description">“As an Entrepreneur, finding the right tool was an utmost necessity. Bill Now made life easier with just the right billing features. Sending invoices and getting paid online is much easier in the app itself. Great support.
                                     “</p>
                             </div>
                         </div>

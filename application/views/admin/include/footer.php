@@ -468,5 +468,8 @@ $(document).ready(function() {
       </script>
     <?php endif ?>
 
+<script>
+    $('#myModal').modal();
+</script>
 </body>
 </html>
