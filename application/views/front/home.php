@@ -15,7 +15,7 @@
                 <div class="header-home__btns header-home__btns-webapp">
                     <?php if (!is_admin() && !is_user() && settings()->trial_days != 0): ?>
                         <a href="<?php echo base_url('register?trial=start') ?>"
-                           class="site-btn site-btn--accent header-home__btn"><?php echo trans('start') ?><?php echo settings()->trial_days . ' ' . trans('days-trial') ?></a>
+                           class="site-btn site-btn--accent header-home__btn"><?php echo trans('start') ?> <?php echo settings()->trial_days . ' ' . trans('days-trial') ?></a>
                     <?php endif; ?>
                     <a href="#features" class="site-btn site-btn--invert header-home__btn">Explore Features</a>
                 </div>

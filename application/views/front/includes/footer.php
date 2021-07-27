@@ -57,17 +57,6 @@
 <script src="<?php echo base_url() ?>assets/assets/js/style-switcher.js"></script>
 
 <script type="text/javascript" src="<?php echo base_url() ?>assets/front/js/jquery.cookieMessage.min.js"></script>
-<script type="text/javascript">
-    var cookieMsg = $('.accept_cookies').val();
-    var accept = $('.accept').val();
-    $.cookieMessage({
-        'mainMessage': cookieMsg,
-        'acceptButton': accept,
-        'fontSize': '16px',
-        'backgroundColor': '#222',
-    });
-</script>
-<!-- gdpr compliance code -->
 
 
 <script type="text/javascript" src="<?php echo base_url() ?>assets/front/js/main.min.js"></script>
