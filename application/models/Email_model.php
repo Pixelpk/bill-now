@@ -88,7 +88,7 @@ class Email_model extends CI_Model {
             $mail->SMTPSecure = $this->settings->mail_encryption;;
             $mail->Port     = $this->settings->mail_port;
             
-            $mail->setFrom($this->settings->mail_username, $this->settings->site_name);
+            $mail->setFrom($this->settings->admin_email, $this->settings->site_name);
             
             // Add a recipient
             $mail->addAddress($email_to);

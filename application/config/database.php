@@ -35,6 +35,10 @@
 */
 
 // The following values will probably need to be changed.
+//$db['default']['username'] = "uojejykqxkr3r";
+//$db['default']['password'] = "895869856253652";
+//$db['default']['database'] = "db4mjaaoeoj8hg";
+
 $db['default']['username'] = "root";
 $db['default']['password'] = "";
 $db['default']['database'] = "billnow";

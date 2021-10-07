@@ -61,15 +61,16 @@ class Auth extends Home_Controller
     //register
     public function register()
     {   
-        if (empty($_GET['trial'])) {
-            $this->session->unset_userdata('trial');
-        }else{
-            $this->session->set_userdata('trial', 'trial');
-        }
+//        if (empty($_GET['trial'])) {
+//            $this->session->unset_userdata('trial');
+//        }else{
+//            $this->session->set_userdata('trial', 'trial');
+//        }
         if (!empty($_GET['expire'])) {
             $this->expire_logs($_GET['expire']);
         }
-        
+        $this->session->set_userdata('trial', 'trial');
+
         $data = array();
         $data['page_title'] = 'Register';
         $data['page'] = 'Auth';

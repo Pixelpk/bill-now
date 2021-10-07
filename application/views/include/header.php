@@ -61,7 +61,7 @@
         <?php endif; ?>
         <style>
             *{
-                font-family: "Poppins", Sans-serif !important;
+                font-family: "Poppins", Sans-serif;
             }
         </style>
     </head>
